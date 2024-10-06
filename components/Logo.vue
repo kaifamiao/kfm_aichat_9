@@ -1,6 +1,6 @@
 <template>
   <div class="logo">
-    <h1>ChatGPT Clone</h1>
+    <img src="~/assets/img/logo12.png" alt="Logo" width="150px" />
   </div>
 </template>
 

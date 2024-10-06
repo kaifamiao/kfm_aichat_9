@@ -1,8 +1,7 @@
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
+![image-20241007022306222](https://cdn.sa.net/2024/10/07/rJbYMcSLI8Zngdh.png)## Setup
 
 Make sure to install the dependencies:
 
